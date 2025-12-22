@@ -25,7 +25,7 @@ I am a developer with over **7 years of experience** building robust and scalabl
 
 ## Own Projects
 
-### [BoardCork](https://cases.boardcork.site) 🕵️‍♂️
+### [BoardCork](https://cases.boardcork.com) 🕵️‍♂️
 A collaborative web game where players solve criminal cases on a virtual board.
 * **Tech:** Next.js, Tailwind, React-Flow, Socket.io, and Payload CMS.
 * **Milestone:** Launched in December 2025, currently reaching over 80 active weekly users.
