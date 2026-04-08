@@ -36,8 +36,8 @@ A collaborative web game where players solve criminal cases on a virtual board.
 I am currently deepening my expertise in implementing **AI solutions using LangChain** (RAGs and Tooling) to enhance digital products.
 
 ## GitHub Stats
-[![Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut)
+[!Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)
+[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut)
 ---
 
 ## Unique Background 🛰️
