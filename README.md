@@ -37,7 +37,7 @@ I am currently deepening my expertise in implementing **AI solutions using LangC
 
 ## GitHub Stats
 [![Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut)
 ---
 
 ## Unique Background 🛰️
