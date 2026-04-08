@@ -1,7 +1,7 @@
 # Hi there! I'm Fernando Oviedo 
 
 ### Full Stack Developer | Tech Lead | React, React Native, Node.js Specialist
-I am a developer with over **7 years of experience** building robust and scalable digital solutions. I am passionate about optimizing development processes and exploring the frontier of **emerging technologies** such as Artificial Intelligence and 3D web development
+I am a developer with over **8 years of experience** building robust and scalable digital solutions. I am passionate about optimizing development processes and exploring the frontier of **emerging technologies** such as Artificial Intelligence and 3D web development
 
 ---
 
@@ -37,7 +37,7 @@ I am currently deepening my expertise in implementing **AI solutions using LangC
 
 ## GitHub Stats
 [![Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)](https://github.com/oviedo97fer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut)](https://github.com/oviedo97fer)
+[![Top Langs]([https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api)/top-langs/?username=oviedo97fer&layout=donut)](https://github.com/oviedo97fer)
 ---
 
 ## Unique Background 🛰️
