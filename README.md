@@ -36,8 +36,8 @@ A collaborative web game where players solve criminal cases on a virtual board.
 I am currently deepening my expertise in implementing **AI solutions using LangChain** (RAGs and Tooling) to enhance digital products.
 
 ## GitHub Stats
-[![Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)](https://github.com/oviedo97fer)
-[![Top Langs]([https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api)/top-langs/?username=oviedo97fer&layout=donut)](https://github.com/oviedo97fer)
+[![Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut]
 ---
 
 ## Unique Background 🛰️
@@ -49,6 +49,6 @@ I hold a degree in **Space Engineering** from UNSAM. This training provided me w
 ---
 
 ## Let's Connect
-* **Portfolio:** [fernandooviedo.site](https://fernandooviedo.site)
+* **Portfolio:** [fernandooviedo.site](https://www.huevsite.io/oviedo97fer)
 * **LinkedIn:** [linkedin.com/in/fernando-nahuel-oviedo](https://linkedin.com/in/fernando-nahuel-oviedo)
 * **Location:** CABA, Argentina 🇦🇷
