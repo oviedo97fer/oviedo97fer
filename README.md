@@ -27,13 +27,13 @@ I am a developer with over **8 years of experience** building robust and scalabl
 
 ### [BoardCork](https://cases.boardcork.com) 🕵️‍♂️
 A collaborative web game where players solve criminal cases on a virtual board.
-* **Tech:** Next.js, Tailwind, React-Flow, Socket.io, and Payload CMS.
-* **Milestone:** Launched in December 2025, currently reaching over 80 active weekly users.
+* **Tech:** Next.js, Tailwind, React-Flow, Socket.io, and Payload CMS, Mastra AI, OpenRouter
+* **Milestone:** Launched in December 2025, currently reaching over 500 active monthly users.
 
 ---
 
 ## Current Focus: AI & Architecture
-I am currently deepening my expertise in implementing **AI solutions using LangChain** (RAGs and Tooling) to enhance digital products.
+I am currently deepening my expertise in implementing **AI solutions using LangChain, Mastra and pgvector** (Agents, RAGs and Tooling) to enhance digital products.
 
 ## GitHub Stats
 [!Fernando Oviedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviedo97fer)
@@ -49,6 +49,6 @@ I hold a degree in **Space Engineering** from UNSAM. This training provided me w
 ---
 
 ## Let's Connect
-* **Portfolio:** [fernandooviedo.site](https://www.huevsite.io/oviedo97fer)
+* **Portfolio:** [fernandooviedo.site](https://fernandooviedo.site)
 * **LinkedIn:** [linkedin.com/in/fernando-nahuel-oviedo](https://linkedin.com/in/fernando-nahuel-oviedo)
 * **Location:** CABA, Argentina 🇦🇷
