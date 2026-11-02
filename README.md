@@ -40,14 +40,6 @@ I am currently deepening my expertise in implementing **AI solutions using LangC
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oviedo97fer&layout=donut)
 ---
 
-## Unique Background 🛰️
-I hold a degree in **Space Engineering** from UNSAM. This training provided me with an advanced foundation in:
-* Complex systems programming and mathematical analysis.
-* Physics and linear algebra applied to software solutions.
-* Project management for high-stakes environments.
-
----
-
 ## Let's Connect
 * **Portfolio:** [fernandooviedo.site](https://fernandooviedo.site)
 * **LinkedIn:** [linkedin.com/in/fernando-nahuel-oviedo](https://linkedin.com/in/fernando-nahuel-oviedo)
